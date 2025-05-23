@@ -1,11 +1,12 @@
-
 # Description 
 Simple full-stack project front/back-end, applying best practices
 
 ## Oracle database
 using oracle database 21c.
 
+## Spring-boot
+using spring boot.
+
 ### Features
-- login controller {username: ?, password: ?}
-- register controller {username: ?, email: ?, password: ?, point: ?}
-- 
+- login {username: ?, password: ?}
+- register {username: ?, email: ?, password: ?, point: ?}
